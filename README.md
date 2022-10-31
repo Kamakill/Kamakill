@@ -1,0 +1,26 @@
+### Hi there 👋, my name is Kamaliki Buluku and am currrently learning how to code with JavaScript and Algorithmic Structures.
+
+Am currently looking to collaborate on various topics and am also willing to learn from others.
+
+Basically am looking to learn anything coding.
+
+You can reach me on kamaliki.buluku@gmail.com or +254 725 911679.
+
+fun fact: am still a learner therefore, am looking to be mentored.
+
+
+
+<!--
+**Kamakill/Kamakill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning to code using JavaScript and Algorithmic Structures ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
